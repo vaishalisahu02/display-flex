@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+button{
+    padding: 15px 20px;
+    border: 20px;
+    color: white;
+    background-color: lightseagreen;
+    border-radius: 5px;
+    font-size: 20px;
+    margin: 20px;
+    border: 2px black solid;
+    transition: all ease 0.5s;
+
+}
+
+button:hover{
+    background-color: transparent;
+    color: blue;
+}
